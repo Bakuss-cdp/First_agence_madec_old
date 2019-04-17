@@ -1,9 +1,10 @@
-[context.production.environment]
-  HUGO_VERSION = "0.54"
-  HUGO_VERSION = "0.48"
-  
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.54"
-  HUGO_VERSION = "0.48"
-  
- 
+[build.environment]
+  YARN_VERSION = "1.12.1"
+  NPM_VERSION = "6.4.1"
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[context.deploy-preview]
+  command = "npm run build:preview"
