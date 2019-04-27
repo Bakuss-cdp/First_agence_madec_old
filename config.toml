@@ -13,27 +13,27 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "A Propos"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Services"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "Quelques Realisations"
     URL = "portfolio"
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
+    name = "L'Equipe"
     URL = "our-team"
     weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
+    name = "Libre Blanc"
     URL = "pricing"
     weight = 6
 
@@ -49,7 +49,7 @@ summaryLength = 10
 
 # Site params
 [params]
-home= "Home"
+home= "Accueil"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
@@ -62,50 +62,50 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/i-am-madec.jpg"
     icon = "tf-ion-play"
-    heading = "MADEC: Agence de Com à la hauteur de vos attentes"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "MADEC"
+    content= "Nous sommes une agence digitale à la hauteur de vos attentes"
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="CONTACTEZ-NOUS"
+    btnURL="#contact-us"
 
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
+    title = "Votre Satisfaction est notre priorité"
+    content = " Nous créons la qualité du produit en tenant compte de votre délai et de votre budget"
+    btnURL = "#contact-us"
+    btnText = "Cliquez ici pour demander un dévi"
 
     # counter
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Clients satisfaits"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "5"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Projets réalisés"
         icon = "tf-ion-archive"
-        count = "565"
+        count = "6"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
+        title = "Feedback positifs"
         icon = "tf-ion-thumbsup"
-        count = "95"
+        count = "5"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Liked & recommendation"
         icon = "tf-ion-coffee"
-        count = "2500"
+        count = "100"
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "l'Equipe Professionnelle de Madec"
+        copyrightURL = "http://www.Madec.com"
 
         # social Icons
         [[params.footer.socialIcon]]

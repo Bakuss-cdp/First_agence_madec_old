@@ -1,10 +1,10 @@
 enable : true
-heading : Our
-headingSpan : Team
+heading : L'
+headingSpan : Equipe
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
+  - image : images/team/femme_picto.jpg
+    name : Mathilde J
+    designation : Responsable Marketing
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -16,9 +16,9 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
+  - image : images/team/homme_picto.jpg
+    name : Adam B
+    designation : Developpeur Web
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -30,9 +30,9 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
+  - image : images/team/homme_picto.jpg
+    name : Mamadou B
+    designation : Developeur Web
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -43,10 +43,9 @@ teamMember :
         url : "#"
       - icon : tf-ion-social-dribbble-outline
         url : "#"
-      
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
+  - image : images/team/homme_picto.jpg
+    name : Eric M
+    designation : Web Designer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook

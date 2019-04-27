@@ -1,27 +1,19 @@
 enable : true
-heading : Our
+heading : NOS
 headingSpan : Services
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
+    title : Consulting & Stretegy
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-ion-laptop
-    title : Responsive Design
+    title : Referencment & Didital Marketing
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-genius
-    title : Media &amp; Advertisement
+    title : Creation & Refonte de site Internet
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
   - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-lifesaver
-    title : Networking
+    title : UI UX Design & Creation Graphic
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

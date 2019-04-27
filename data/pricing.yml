@@ -1,55 +1,55 @@
 enable : true
-heading : Our Greatest
-headingSpan : Plans
+heading : Libres
+headingSpan : Blancs
 pricingTable :
-  - title : Free
-    price : $99
-    time : month
+  - title : Livre Un
+    price : 2€
+    time : mois
     btnURL : #
-    btnText : Signup
+    btnText : Commander
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+     # - planDetails : 1GB Disk Space
+     # - planDetails : 10 Email Account
+     # - planDetails : Script Installer
+     # - planDetails : 1 GB Storage
+     # - planDetails : 10 GB Bandwidth
+     # - planDetails : 24/7 Tech Support
       
-  - title : Silver
-    price : $149
+  - title : Libre Deux
+    price : 4€
     time : month
     btnURL : #
-    btnText : Signup
+    btnText : Commander
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+     # - planDetails : 1GB Disk Space
+     # - planDetails : 10 Email Account
+     # - planDetails : Script Installer
+     # - planDetails : 1 GB Storage
+     # - planDetails : 10 GB Bandwidth
+     # - planDetails : 24/7 Tech Support
       
-  - title : Gold
-    price : $199
+  - title : Libre Trois
+    price : 7€
     time : month
     btnURL : #
-    btnText : Signup
+    btnText : Commander
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+     # - planDetails : 1GB Disk Space
+     # - planDetails : 10 Email Account
+     # - planDetails : Script Installer
+     # - planDetails : 1 GB Storage
+     # - planDetails : 10 GB Bandwidth
+     # - planDetails : 24/7 Tech Support
       
-  - title : Platinum
-    price : $299
+  - title : Libre Quatre
+    price : 10€
     time : month
     btnURL : #
-    btnText : Signup
+    btnText : Commander
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+     # - planDetails : 1GB Disk Space
+     # - planDetails : 10 Email Account
+     # - planDetails : Script Installer
+     # - planDetails : 1 GB Storage
+     # - planDetails : 10 GB Bandwidth
+     # - planDetails : 24/7 Tech Support

@@ -1,21 +1,21 @@
 enable : true
-heading : Get In
-headingSpan : Touch
-title : Contact Details
+heading : Restons  
+headingSpan : en Contact
+title : Nous joindre autrement
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-enable_maps : false
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+enable_maps : true
+mapLatitude : 51.5423477
+mapLongitude: -0.6622023
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "100, Rue OpenClassrooms, Mâcon"
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Phone: +33-2-0-31-000-000"
     
   - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "Fax: +33-1-31-000-000"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: contact@madec.com"
     
